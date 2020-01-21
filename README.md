@@ -21,11 +21,11 @@ As well as a summary of changes to the language since the last meetup.
 
 ## Organization Discussion
 
-We run the meetup inside the [TypeScript Community Discord](https://discord.gg/typescript/) in a channel called `#ts-nyc`. This is open for others to join and contribute, and we'd love more folks to be involved.
+We run the meetup inside the [TypeScript Community Discord](https://discord.gg/typescript) in a channel called `#ts-nyc`. This is open for others to join and contribute, and we'd love more folks to be involved.
 
 ## Giving a talk
 
-Want to give a talk at TSNYC? Great, please join the [TypeScript Community Discord](https://discord.gg/typescript/) and fill out and post this template in `#ts-nyc`:
+Want to give a talk at TSNYC? Great, please join the [TypeScript Community Discord](https://discord.gg/typescript) and fill out and post this template in `#ts-nyc`:
 
 ```
 **Talk Title:**
